@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T07:29:13.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="k_nPWfvFzdEun80lr0ly" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T08:18:07.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8jy9J32wHoNlFsKv2PUP" version="24.4.8" type="github">
   <diagram name="第 1 页" id="j04bHKYZq8fruQPVViW6">
     <mxGraphModel dx="1221" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,19 +88,19 @@
         <mxCell id="m4RghLFEex4PMgL7YoKE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=2;" parent="1" source="m4RghLFEex4PMgL7YoKE-23" target="m4RghLFEex4PMgL7YoKE-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4RghLFEex4PMgL7YoKE-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;分帧处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
+        <mxCell id="m4RghLFEex4PMgL7YoKE-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;帧分割&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="560" y="169.86" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m4RghLFEex4PMgL7YoKE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=2;" parent="1" source="m4RghLFEex4PMgL7YoKE-24" target="m4RghLFEex4PMgL7YoKE-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4RghLFEex4PMgL7YoKE-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;加窗处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
+        <mxCell id="m4RghLFEex4PMgL7YoKE-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;窗函数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="560" y="239.86" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m4RghLFEex4PMgL7YoKE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=2;" parent="1" source="m4RghLFEex4PMgL7YoKE-25" target="m4RghLFEex4PMgL7YoKE-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4RghLFEex4PMgL7YoKE-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据增强&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
+        <mxCell id="m4RghLFEex4PMgL7YoKE-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;高频预放大&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="710" y="169.86" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m4RghLFEex4PMgL7YoKE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6C8EBF;strokeWidth=2;" parent="1" source="m4RghLFEex4PMgL7YoKE-26" target="m4RghLFEex4PMgL7YoKE-27" edge="1">
