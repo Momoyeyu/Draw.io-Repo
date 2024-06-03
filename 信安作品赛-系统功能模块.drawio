@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T05:48:26.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="snWGMw76zPblB2Z-a2a0" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:30:39.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yCq7gqe-8P42pEHGjS6W" version="24.4.13" type="github">
   <diagram name="第 1 页" id="D58LVChcGPOmBAcGYWiP">
-    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-27" value="客户端音频处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-28" value="原始输入音频流分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-28" value="原始输入音频流分块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-29" value="对抗音频数据段拼接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" vertex="1" parent="1">
