@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:04:54.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gpa6gcO-1iiv8gPBI0mA" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:52:19.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BD77VW1wxrkV_ra-w2km" version="24.4.13" type="github">
   <diagram name="第 1 页" id="D58LVChcGPOmBAcGYWiP">
-    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-1" target="4mN1JtAhCgiJvt9K-lOM-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-1" value="AntiRec：基于可迁移通用对抗扰动的防语音识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-1" value="AntiRec：基于可迁移通用对抗扰动的防语音识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#DAE8FC;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="80" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-2" target="4mN1JtAhCgiJvt9K-lOM-9" edge="1">
@@ -37,25 +37,25 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-2" target="4mN1JtAhCgiJvt9K-lOM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-2" value="I/O控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-2" value="I/O控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-3" target="4mN1JtAhCgiJvt9K-lOM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-3" value="进程通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-3" value="进程通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-6" value="接收原始输入数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-6" value="接收原始输入数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-7" value="虚拟麦克风输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-7" value="虚拟麦克风输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-9" value="输出应用生成数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-9" value="输出应用生成数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-13" value="与目标进程通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-13" value="与目标进程通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="230" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-27" target="4mN1JtAhCgiJvt9K-lOM-30" edge="1">
@@ -67,19 +67,19 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-27" target="4mN1JtAhCgiJvt9K-lOM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-27" value="客户端音频处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-27" value="客户端音频处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-28" value="原始输入音频流分块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-28" value="原始输入音频流分块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-29" value="对抗音频数据段拼接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-29" value="对抗音频数据块拼接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-30" value="音频数值叠加处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-30" value="音频数据块添加扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-34" value="选择扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-34" value="选择扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-35" target="4mN1JtAhCgiJvt9K-lOM-34" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-35" target="4mN1JtAhCgiJvt9K-lOM-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-35" value="扰动控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-35" value="扰动控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-39" target="4mN1JtAhCgiJvt9K-lOM-40" edge="1">
@@ -97,16 +97,16 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-39" target="4mN1JtAhCgiJvt9K-lOM-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-39" value="扰动缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-39" value="扰动缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-40" value="缓存扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-40" value="缓存扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-41" value="读取扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-41" value="读取扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-42" value="请求扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-42" value="请求扰动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="230" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-46" target="4mN1JtAhCgiJvt9K-lOM-47" edge="1">
@@ -124,28 +124,28 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-46" target="4mN1JtAhCgiJvt9K-lOM-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-46" value="扰动生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-46" value="扰动生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-47" value="数据集预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-47" value="数据集预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-48" value="快速梯度符号法扰动迭代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-48" value="快速梯度符号法扰动迭代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-49" value="M&lt;br&gt;F&lt;br&gt;C&lt;br&gt;C特征反转" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-49" value="M&lt;br&gt;F&lt;br&gt;C&lt;br&gt;C特征反转" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-50" value="白盒A&lt;br&gt;S&lt;br&gt;R转录文本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-50" value="白盒A&lt;br&gt;S&lt;br&gt;R转录文本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-51" value="双阶段动态生成范式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-51" value="双阶段动态生成范式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-64" value="A&lt;div&gt;S&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;转录文本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-64" value="A&lt;div&gt;S&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;&lt;div&gt;转录文本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="230" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-65" value="音频自动保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-65" value="音频自动保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="230" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-69" target="4mN1JtAhCgiJvt9K-lOM-65" edge="1">
@@ -157,10 +157,10 @@
         <mxCell id="4mN1JtAhCgiJvt9K-lOM-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4mN1JtAhCgiJvt9K-lOM-69" target="4mN1JtAhCgiJvt9K-lOM-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-69" value="音频历史数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-69" value="音频历史数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4mN1JtAhCgiJvt9K-lOM-70" value="音频缓存读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4mN1JtAhCgiJvt9K-lOM-70" value="音频缓存读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="230" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
