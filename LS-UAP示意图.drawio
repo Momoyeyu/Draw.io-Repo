@@ -305,7 +305,7 @@
           <mxGeometry x="-430" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oO1bOhJja_QurAtk9IJg-40" value="&quot;My name is Bob&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-720.5" y="317.9" width="140" height="30" as="geometry" />
+          <mxGeometry x="-710" y="317.9" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oO1bOhJja_QurAtk9IJg-41" value="&quot;My name is Bob&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-720.5" y="90" width="130.5" height="30" as="geometry" />
