@@ -532,9 +532,6 @@
         <mxCell id="qh7d4WU73PojG3Mu7PyD-29" value="Speaker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=16;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-675.25" y="779.7" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qh7d4WU73PojG3Mu7PyD-30" value="Generate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=16;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-590.5" y="760.75" width="60" height="29.25" as="geometry" />
-        </mxCell>
         <mxCell id="qh7d4WU73PojG3Mu7PyD-31" value="Send" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;fontSize=16;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="760.75" width="60" height="29.25" as="geometry" />
         </mxCell>
