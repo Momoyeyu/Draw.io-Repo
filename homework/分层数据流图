@@ -1,81 +1,335 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="第 1 页" id="9lYKoVfsW13pvkwqDMUK">
-    <mxGraphModel dx="806" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCrQy2_oZVSuI-jIR-iB-1" target="wCrQy2_oZVSuI-jIR-iB-3">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-1" target="wCrQy2_oZVSuI-jIR-iB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="210" />
+              <mxPoint x="360" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCrQy2_oZVSuI-jIR-iB-1" target="wCrQy2_oZVSuI-jIR-iB-3">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-1" target="wCrQy2_oZVSuI-jIR-iB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-1" value="&lt;b&gt;乘客&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-1" value="&lt;b&gt;乘客&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCrQy2_oZVSuI-jIR-iB-2" target="wCrQy2_oZVSuI-jIR-iB-3">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-2" target="wCrQy2_oZVSuI-jIR-iB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="210" />
+              <mxPoint x="400" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-2" value="&lt;b&gt;计费中心&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-2" value="&lt;b&gt;计费中心&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wCrQy2_oZVSuI-jIR-iB-4">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" target="wCrQy2_oZVSuI-jIR-iB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="360" as="sourcePoint" />
-            <mxPoint x="440" y="480" as="targetPoint" />
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="390" />
-              <mxPoint x="440" y="390" />
+              <mxPoint x="360" y="370" />
+              <mxPoint x="360" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCrQy2_oZVSuI-jIR-iB-3" target="wCrQy2_oZVSuI-jIR-iB-2">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-3" target="wCrQy2_oZVSuI-jIR-iB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-3" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;公交车刷卡系统&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="120" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-3" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;公交车刷卡系统&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCrQy2_oZVSuI-jIR-iB-4">
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="480" as="sourcePoint" />
-            <mxPoint x="480" y="360" as="targetPoint" />
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="390" />
-              <mxPoint x="480" y="390" />
+              <mxPoint x="400" y="370" />
+              <mxPoint x="400" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-4" value="&lt;b&gt;公交车&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-4" value="&lt;b&gt;公交车刷卡机&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-7" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="80" height="30" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-7" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-13" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;站程记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-13" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-15" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费统计表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="270" width="100" height="30" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-15" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费统计表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-18" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-18" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wCrQy2_oZVSuI-jIR-iB-22" value="(1) 顶层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="200" height="40" as="geometry" />
+        <mxCell id="wCrQy2_oZVSuI-jIR-iB-22" value="(1) 顶层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-2" target="efOgCOPp-UeW5aQJDaej-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1&lt;br&gt;刷卡处&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2&lt;br&gt;费用统计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-4" target="efOgCOPp-UeW5aQJDaej-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="230" as="sourcePoint" />
+            <mxPoint x="780" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-10" target="efOgCOPp-UeW5aQJDaej-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="300" as="sourcePoint" />
+            <mxPoint x="870" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-9" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;上车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-11" value="&lt;b&gt;刷卡站点记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-12" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;计费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="-90" as="sourcePoint" />
+            <mxPoint x="1140" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="290" as="sourcePoint" />
+            <mxPoint x="1179.58" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="280" as="sourcePoint" />
+            <mxPoint x="1320" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-17" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-18" value="(2) 零层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-19" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-20" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-22" target="efOgCOPp-UeW5aQJDaej-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1.1&lt;br&gt;上车刷卡处&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2&lt;br&gt;费用统计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-25" target="efOgCOPp-UeW5aQJDaej-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-25" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-22" source="efOgCOPp-UeW5aQJDaej-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="480" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-29" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;上车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-30" value="&lt;b&gt;刷卡站点记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-31" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;计费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-31" target="efOgCOPp-UeW5aQJDaej-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.5799999999999" y="480" as="sourcePoint" />
+            <mxPoint x="539.5799999999999" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="600" as="sourcePoint" />
+            <mxPoint x="680" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-34" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-35" value="(2) 加工1的一层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-36" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;上车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-37" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-38" target="efOgCOPp-UeW5aQJDaej-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1.2&lt;br&gt;下车刷卡处&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="650" as="sourcePoint" />
+            <mxPoint x="140" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-42" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-43" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-45" target="efOgCOPp-UeW5aQJDaej-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-45" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1.1&lt;br&gt;上车刷卡处&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-46" target="efOgCOPp-UeW5aQJDaej-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2.1&lt;br&gt;收费表格制定&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-50" target="efOgCOPp-UeW5aQJDaej-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="480" as="sourcePoint" />
+            <mxPoint x="870" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-50" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;上车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-51" target="efOgCOPp-UeW5aQJDaej-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-51" value="&lt;b&gt;刷卡站点记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-52" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;计费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="550" as="sourcePoint" />
+            <mxPoint x="1179.58" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-56" value="(2) 加工2的一层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-57" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;上车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-60" target="efOgCOPp-UeW5aQJDaej-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1.2&lt;br&gt;下车刷卡处&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="efOgCOPp-UeW5aQJDaej-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="650" as="sourcePoint" />
+            <mxPoint x="780" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-62" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-63" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-64" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2.2&lt;br&gt;收费表格统计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-66" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="efOgCOPp-UeW5aQJDaej-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="670" as="sourcePoint" />
+            <mxPoint x="1320" y="649.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-68" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efOgCOPp-UeW5aQJDaej-70" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;计费表格格式&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="580" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
