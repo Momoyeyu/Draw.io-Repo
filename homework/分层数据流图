@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-1" value="&lt;b&gt;乘客&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="wCrQy2_oZVSuI-jIR-iB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-2" value="&lt;b&gt;计费中心&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" target="wCrQy2_oZVSuI-jIR-iB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -59,10 +59,10 @@
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="240" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-7" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;下车刷卡&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;乘车记录&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="400" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-15" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费统计表&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="270" width="100" height="30" as="geometry" />
+          <mxGeometry x="480" y="270" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-18" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;收费标准&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCrQy2_oZVSuI-jIR-iB-22" value="(1) 顶层图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="200" height="40" as="geometry" />
