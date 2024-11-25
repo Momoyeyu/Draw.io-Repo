@@ -2303,7 +2303,7 @@
         <mxCell id="bCX1ZdXnik87_zapSWAR-170" value="GELU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C5A8FF;strokeColor=#E6E6E6;fontFamily=思源黑体 Regular;fontSize=36;strokeWidth=1.5;shadow=1;gradientColor=#9696FF;gradientDirection=west;fontColor=#FFFFFF;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="-1360" y="1520.06" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bCX1ZdXnik87_zapSWAR-171" value="高效非线性运算函数实现" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=思源黑体 Regular;fontSize=36;fontColor=#FFFFFF;fontStyle=1;fillColor=#8B52FF;gradientColor=#6666FF;gradientDirection=west;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="bCX1ZdXnik87_zapSWAR-171" value="加密向量并&lt;span style=&quot;background-color: initial;&quot;&gt;行&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;堆叠处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=思源黑体 Regular;fontSize=36;fontColor=#FFFFFF;fontStyle=1;fillColor=#8B52FF;gradientColor=#6666FF;gradientDirection=west;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-920" y="1220.06" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bCX1ZdXnik87_zapSWAR-172" value="精确非线性激活函数拟合" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=思源黑体 Regular;fontSize=36;fontColor=#FFFFFF;fontStyle=1;fillColor=#8B52FF;gradientColor=#6666FF;gradientDirection=west;strokeColor=none;" parent="1" vertex="1">
